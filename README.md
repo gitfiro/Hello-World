@@ -1,5 +1,4 @@
-# Hello-Wrold
-
+# Hello-World
 Hi new comers
 
 jen is here, I like node.j and teascript ( that is what i am made of!).
